@@ -1,10 +1,12 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alles_oder_nicks) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nick-starzmann)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nstarzmann) 
-
+## 🌐 Connect with me:
 <a href="https://me.starzmann.net" target="_blank">
   <img src=https://img.shields.io/badge/homepage-3d3d3d.svg?&style=for-the-badge&logoColor=white alt=homepage />
+</a>
+<a href="https://x.com/Nstarzmann" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-00acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
+</a>
+<a href="https://www.linkedin.com/in/nick-starzmann-a437b42a4/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-1E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>
 
 
