@@ -1,3 +1,6 @@
+## Hey👋
+my Name is Nick and i am a Software Engineer, Hobby Photographer and Motorcyclist ;)
+
 ## 🌐 Connect with me:
 <a href="https://me.starzmann.net" target="_blank">
   <img src=https://img.shields.io/badge/homepage-3d3d3d.svg?&style=for-the-badge&logoColor=white alt=homepage />
