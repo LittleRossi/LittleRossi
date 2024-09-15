@@ -1,10 +1,5 @@
-## Hey👋
-my Name is Nick and i am a Software Engineer, Hobby Photographer and Motorcyclist ;)
-
-
-<h1 align="center">Hi, I'm Nick! <img src="assets/hi.gif" height="40"> </h1>
+<h1 align="center">Hi, I'm Nick! 👋<img src="assets/hi.gif" height="40"> </h1>
 <h3 align="center">A passionate software developer, hobby photographer and motorcyclist</h3>
-
 
 
 
