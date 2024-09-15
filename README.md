@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nick! 👋<img src="assets/hi.gif" height="40"> </h1>
 <h3 align="center">A passionate software developer, hobby photographer and motorcyclist</h3>
 
-
+---
 
 ## 🌐 Connect with me:
 <a href="https://me.starzmann.net" target="_blank">
